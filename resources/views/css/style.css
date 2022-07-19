@@ -1,0 +1,6 @@
+.box,.card{
+    width: 1000px;
+    height: 50vh;
+    background-color: red;
+    visibility: visible;
+}
